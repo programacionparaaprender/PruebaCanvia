@@ -1,0 +1,13 @@
+C:\Users\Bus209\Documents\htdocs\PruebaCanvia\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\Bus209\Documents\htdocs\PruebaCanvia\Models\bin\Debug\netcoreapp3.1\Models.runtimeconfig.json
+C:\Users\Bus209\Documents\htdocs\PruebaCanvia\Models\bin\Debug\netcoreapp3.1\Models.runtimeconfig.dev.json
+C:\Users\Bus209\Documents\htdocs\PruebaCanvia\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Bus209\Documents\htdocs\PruebaCanvia\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Bus209\Documents\htdocs\PruebaCanvia\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+C:\Users\Bus209\Documents\htdocs\PruebaCanvia\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bus209\Documents\htdocs\PruebaCanvia\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\Bus209\Documents\htdocs\PruebaCanvia\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\Bus209\Documents\htdocs\PruebaCanvia\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\Bus209\Documents\htdocs\PruebaCanvia\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\Bus209\Documents\htdocs\PruebaCanvia\Models\obj\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Bus209\Documents\htdocs\PruebaCanvia\Models\obj\Debug\netcoreapp3.1\Models.genruntimeconfig.cache
