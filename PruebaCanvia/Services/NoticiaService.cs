@@ -21,6 +21,7 @@ namespace PruebaCanvia.Services
 
         public List<Noticia> Obtener()
         {
+           
             var resultado = _applicationBDContext.Notiticias.Include(x=>x.Autor).ToList();
             return resultado;
         }

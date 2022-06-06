@@ -3,8 +3,7 @@
 dotnet new webapi -o PruebaCanvia -f netcoreapp3.1
 dotnet add package Microsoft.EntityFrameworkCore.Design
 dotnet new sln
-dotnet add sln .\PruebaCanvia\PruebaCanvia.csproj
-dotnet add reference .\PruebaCanvia\PruebaCanvia.csproj
+dotnet sln add .\PruebaCanvia\PruebaCanvia.csproj
 
 
 
